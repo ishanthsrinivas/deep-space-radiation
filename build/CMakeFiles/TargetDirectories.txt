@@ -1,0 +1,4 @@
+/home/ishanth/geant4/dsr/build/CMakeFiles/rebuild_cache.dir
+/home/ishanth/geant4/dsr/build/CMakeFiles/edit_cache.dir
+/home/ishanth/geant4/dsr/build/CMakeFiles/Simulation.dir
+/home/ishanth/geant4/dsr/build/CMakeFiles/dsr.dir

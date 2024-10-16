@@ -1,0 +1,21 @@
+/gps/pos/type Plane
+/gps/pos/shape Circle
+/gps/pos/radius 1.0 cm
+/gps/pos/centre 0.1 0.0 0.0 cm
+
+/gps/ang/type iso
+
+/gps/ene/type Mono
+/gps/ene/mono 500 MeV
+
+/gps/particle proton
+
+/gps/source/add 12.0   
+/gps/particle alpha
+
+/gps/source/add 1.0
+/gps/particle ion     
+/gps/ion 6 12 0 0.0
+
+/run/beamOn 10
+
